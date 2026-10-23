@@ -43,10 +43,15 @@ flutter run
 
 ## Screenshot
 
-Tambahkan 2 screenshot emulator ke folder `screenshots/`:
+| Halaman Profil | Daftar Mahasiswa |
+|----------------|------------------|
+| ![Profil](screenshots/profil.png) | ![Daftar](screenshots/list.png) |
 
-- `screenshots/profil.png` — halaman Profil
-- `screenshots/list.png` — halaman Daftar Mahasiswa (state loading pastel tampak)
+## Identitas
+
+- Nama: Nabila Nurul Azizah
+- NIM: 240102089
+- Mata kuliah: Pemrograman Perangkat Bergerak (Praktikum 2)
 
 ## Pengumpulan
 
